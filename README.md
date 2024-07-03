@@ -15,11 +15,11 @@ The repository is made of the following files:
 
 ### Input data
 * ` ES_clean.csv` -- A cleaned version of the [Ecosystem Service Valuation Database]( https://www.esvd.net/), based on the data inclusion rules outlined in the accompanying manuscript.
-<img src="https://github.com/falko-buschke/SOPACA/blob/main/Figure1.png" alt="Study Area" width="700"/>
+<img src="https://github.com/falko-buschke/SOPACA/blob/main/Figure1.png" alt="Study Area" width="500"/>
 
 ### Decision tree for data inclusion
 * `Data_Inclusion.R` -- An R-script to recreat Figure 2, which outlines the the decision tree followed to include or exclude data records.
-<img src="https://github.com/falko-buschke/SOPACA/blob/main/Figure2.png" alt="Data Inclusion rules" width="700"/>
+<img src="https://github.com/falko-buschke/SOPACA/blob/main/Figure2.png" alt="Data Inclusion rules" width="500"/>
 
 
 
